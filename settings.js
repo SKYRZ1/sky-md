@@ -24,18 +24,18 @@ global.APIKeys = {
 }
 
 //owmner v card
-global.owner = ['6281351692548'] //ur owner number
-global.ownernomer = "6281351692548" //ur owner number2
+global.owner = ['62895704151428'] //ur owner number
+global.ownernomer = "62895704151428" //ur owner number2
 global.ownername = "KyuuSenpaii" //ur owner name
 global.ytname = "hmm" //ur yt chanel name
 global.socialm = "jgn spam owner njg" //ur github or insta name
-global.location = "Sulawesi Selatan, Indonesia " //ur location
+global.location = "kalimantan, Indonesia " //ur location
 
 //new
 global.botname = "𝐊𝐢𝐚𝐧𝐚 𝐛𝐨𝐭"
-global.ownernumber = '6281351692548'
-global.ownername = '6281351692548'
-global.ownerNumber = ["6281351692548@s.whatsapp.net"]
+global.ownernumber = '62895704151428'
+global.ownername = '62895704151428'
+global.ownerNumber = ["62895704151428@s.whatsapp.net"]
 global.ownerweb = "https://www.youtube.com/@ImKyuuLonelly"
 global.websitex = "https://Bakso kontol"
 global.wagc = "https://www.youtube.com/@ImKyuuLonelly"
@@ -44,15 +44,15 @@ global.wm = "Fxyz"
 global.botscript = 'kamu nanyeak escehnya?' //script link
 global.packname = "𝐊𝐢𝐚𝐧𝐚 𝐛𝐨𝐭"
 global.author = "𝐤𝐲𝐮𝐮𝐋𝐨𝐧𝐞𝐥𝐲"
-global.creator = "6281351692548@s.whatsapp.net"
+global.creator = "62895704151428@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./skymedia/theme/cheemspic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./skymedia/theme/cheemspic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./skymedia/theme/cheemspic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./skymedia/theme/cheemspic.jpg") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
