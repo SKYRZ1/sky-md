@@ -74,7 +74,7 @@ if (kay.key && kay.key.remoteJid === 'status@broadcast') return
 if (!XeonBotInc.public && !kay.key.fromMe && chatUpdate.type === 'notify') return
 if (kay.key.id.startsWith('BAE5') && kay.key.id.length === 16) return
 m = smsg(XeonBotInc, kay, store)
-require('./XeonCheems7')(XeonBotInc, m, chatUpdate, store)
+require('./Sky')(XeonBotInc, m, chatUpdate, store)
 } catch (err) {
 console.log(err)}
 })
